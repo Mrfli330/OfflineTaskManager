@@ -11,6 +11,23 @@ OfflineTaskManager adalah aplikasi Android untuk mengelola tugas secara offline.
 - Mengubah status tugas.
 - Menghapus tugas.
 - Menyimpan data secara lokal menggunakan Room Database.
+## Screenshot Aplikasi
+
+### 1. Halaman Utama
+![Halaman Utama](docs/screenshots/01-halaman-utama.png)
+
+### 2. Tambah Tugas
+![Tambah Tugas](docs/screenshots/02-tambah-tugas.png)
+
+### 3. Detail Tugas
+![Detail Tugas](docs/screenshots/03-detail-tugas.png)
+
+### 4. Edit Deadline
+![Edit Deadline](docs/screenshots/04-edit-deadline.png)
+
+### 5. Hasil Update
+![Hasil Update](docs/screenshots/05-hasil-update.png)
+
 
 ## Teknologi
 - Kotlin
